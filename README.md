@@ -247,5 +247,3 @@ Para solicitar permiso de uso, abre un issue o contacta a la autora.
 
 ## ✍️ Autoría
 Realizado por:  **Gisell López**.
-
-> “Este foro no solo valida usuarios: valida un enfoque serio, metódico y seguro.”
